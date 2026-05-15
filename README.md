@@ -6,7 +6,8 @@
 
 - [programming/](./programming/) - プログラミング関連のノート
   - [TypeScript.md](./programming/TypeScript.md) - TypeScript の基本、型、ビルド、周辺ツールなど
-  - [React.md](./React.md) - React / TSX / Hooks などのメモ
+  - [React.md](./programming/React.md) - React / TSX / Hooks などのメモ
+  - [Next.js.md](./programming/Next.js.md) - Next.js (App Router) / ルーティング / Server Components など
 
 ## 方針
 
@@ -14,5 +15,5 @@
 
 ## メモ
 
-Markdown ファイルはそのままエディタやプレビューで読む想定
+Markdown ファイルはそのままエディタやプレビューで読む想定<br>
 必要に応じてタグや作成日、更新日を front matter に記載
