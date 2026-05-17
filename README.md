@@ -4,10 +4,17 @@
 
 ## Contents
 
-- [programming/](./programming/) - プログラミング関連のノート
+- [programming/](./programming/) - プログラミング言語・フレームワーク
+  - [CSharp.md](./programming/CSharp.md) - C# の型・クラス・LINQ・非同期など
   - [TypeScript.md](./programming/TypeScript.md) - TypeScript の基本、型、ビルド、周辺ツールなど
   - [React.md](./programming/React.md) - React / TSX / Hooks などのメモ
   - [Next.js.md](./programming/Next.js.md) - Next.js (App Router) / ルーティング / Server Components など
+- [godot/](./godot/) - Godot ゲームエンジン
+  - [Godot.md](./godot/Godot.md) - Godot 4.x / ノード・シーン・GDScript・2D ゲーム基礎など
+  - [Godot_CSharp.md](./godot/Godot_CSharp.md) - Godot × C# / GDScript との比較・セットアップ
+- [tools/](./tools/) - ツール・環境
+  - [ClaudeCode.md](./tools/ClaudeCode.md) - Claude Code の使い方・設定・Tips
+  - [CodingAgentExtensions.md](./tools/CodingAgentExtensions.md) - コーディングエージェント拡張機能のメモ
 
 ## 方針
 
