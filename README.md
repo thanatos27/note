@@ -9,6 +9,8 @@
   - [TypeScript.md](./programming/TypeScript.md) - TypeScript の基本、型、ビルド、周辺ツールなど
   - [React.md](./programming/React.md) - React / TSX / Hooks などのメモ
   - [Next.js.md](./programming/Next.js.md) - Next.js (App Router) / ルーティング / Server Components など
+  - [Go.md](./programming/Go.md) - Go の基本構文・型・並行処理・標準ライブラリなど
+  - [Vite.md](./programming/Vite.md) - Vite のセットアップ・設定・環境変数・プラグインなど
 - [godot/](./godot/) - Godot ゲームエンジン
   - [Godot.md](./godot/Godot.md) - Godot 4.x / ノード・シーン・GDScript・2D ゲーム基礎など
   - [Godot_CSharp.md](./godot/Godot_CSharp.md) - Godot × C# / GDScript との比較・セットアップ
