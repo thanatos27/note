@@ -22,6 +22,8 @@
   - [Godot_CSharp.md](./godot/Godot_CSharp.md) - Godot × C# / GDScript との比較・セットアップ
 - [unity/](./unity/) - Unity ゲームエンジン
   - [Unity2D.md](./unity/Unity2D.md) - Unity 6 / 2Dゲーム制作・Sprite・Tilemap・2D物理・UIなど
+- [math/](./math/) - 数学・統計
+  - [Statistics.md](./math/Statistics.md) - 統計学の基礎（基本統計量・確率・分布・推定・検定・回帰）
 - [tools/](./tools/) - ツール・環境
   - [ClaudeCode.md](./tools/ClaudeCode.md) - Claude Code の使い方・設定・Tips
   - [Codex.md](./tools/Codex.md) - OpenAI Codex CLI の使い方・承認モード・設定など
